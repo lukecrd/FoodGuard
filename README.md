@@ -12,8 +12,11 @@ allergeni o ingredienti che hai segnato come vietati.
   per recuperare ingredienti e allergeni ufficiali del prodotto, poi confrontati con la tua lista.
 - **Verdetto immediato**: SICURO / VIETATO / DATI INSUFFICIENTI, con evidenziati gli ingredienti che hanno
   fatto scattare l'allarme.
-- **Grafica hightech**: tema scuro con accenti neon (cyan, viola, verde, rosso), card con effetto glow,
-  font monospace per titoli.
+- **Grafica allegra e colorata**: sfondo color panna, palette vivace (verde foglia = consentito, rosso pomodoro = vietato,
+  giallo sole = attenzione, azzurro, mirtillo e fragola come accenti), card e pulsanti arrotondati con ombre colorate,
+  icone Material Rounded ovunque ed effetti animati: rimbalzo alla pressione, intestazioni con sfumature in movimento
+  e bolle fluttuanti, entrata a cascata delle card, pulsante scanner pulsante, mirino con angoli multicolore e linea
+  arcobaleno, verdetto che "esplode" con un rimbalzo (e coriandoli quando il prodotto è sicuro).
 
 ## Come aprire il progetto
 

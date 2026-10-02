@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FoodGuard</string>
+    <style name="Theme.FoodGuard" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FBF8F5</item>
+        <item name="android:navigationBarColor">#FBF8F5</item>
+        <item name="android:windowBackground">#FBF8F5</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
